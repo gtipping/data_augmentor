@@ -1,0 +1,9 @@
+# Library dependencies for python code. Need to install with 
+# 'pip install -r requirement.txt' before you can run.
+
+# Basic data manipulation and structural packages
+pandas
+numpy
+
+# To use for generating random numbers in given interval
+random
